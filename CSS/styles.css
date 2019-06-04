@@ -1,0 +1,23 @@
+html,
+div {
+    background: #FF2800;
+    color: antiquewhite;
+    text-align: justify;
+}
+body {
+    margin: 0%;
+    height: 0%;
+    
+}
+.hero {
+    color: antiquewhite;
+    background-image: url('https://images.unsplash.com/photo-1506968967857-164e07ee0682?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: justify;
+    text-align: center;
+}
